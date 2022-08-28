@@ -16,14 +16,14 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gmol-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gmol-mysql" height="50" width="90" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Gmol-Mongodb" height="50" width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Gmol-PostgreSql" height="50" width="130" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Gmol-MariaDb" height="50" width="90" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=whit">
-  <img align="center" alt="Gmol-Postman" height="50" width="90" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img align="center" alt="Gmol-mysql" height="50" width="80" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Gmol-Mongodb" height="50" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Gmol-PostgreSql" height="50" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Gmol-MariaDb" height="50" width="80" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=whit">
+  <img align="center" alt="Gmol-Postman" height="50" width="80" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img align="center" alt="Gmol-Java" height="50" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Gmol-Springboot" height="50" width="90" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-  <img align="center" alt="Gmol-Docker" height="50" width="90" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Gmol-Springboot" height="50" width="80" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+  <img align="center" alt="Gmol-Docker" height="50" width="70" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 
 </div>
   
