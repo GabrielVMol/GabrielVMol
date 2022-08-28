@@ -23,7 +23,7 @@
   <img align="center" alt="Gmol-Postman" height="50" width="85" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img align="center" alt="Gmol-Java" height="50" width="85" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Gmol-Springboot" height="50" width="85" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-  <img align="center" alt="Gmol-Docker" height="50" width="70" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Gmol-Docker" height="50" width="85" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 
 </div>
   
